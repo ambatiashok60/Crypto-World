@@ -1,3 +1,7 @@
-h1{
-    color: blue;
+tr.greater{
+    background: #04CEFF ;
+}
+
+tr.notgreater{
+    background: #FFA804
 }
